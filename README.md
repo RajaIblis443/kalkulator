@@ -1,16 +1,67 @@
 # kalkulator
 
-A new Flutter project.
+Kalkulator Project
 
-## Getting Started
+## Bagaiman Cara Berkerja?
 
-This project is a starting point for a Flutter application.
+Kalkulator ini dirancang untuk menghitung oparasi matematika yang sangat sederhana, cara penggunan nya juga begitu mudah tingal ketik lewat keyboard fisik atau mengetik melalui keyboard virtual, untuk menjumlahkan
+ketuk tombol tambah. sekian...
 
-A few resources to get you started if this is your first Flutter project:
+## Software
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+1. Menggunakan Bahasa Dart
+2. Menggunakn Framework Flutter
+3. Menggunakn libary Riverpord untuk state management
+4. Menggunakan libart Math untuk operasi matematika
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Instalasi
+
+Berikut langkah langkah instalasi
+
+### Android
+
+1. Pastikan Flutter SDK sudah terinstal
+2. Clone Repository Ini:
+
+```bash
+git clone https://github.com/username/kalkulator.git
+cd kalkulator
+```
+
+3. jalankan
+
+```bash
+flutter pub get
+flutter run
+```
+
+### IOS
+
+Pastikan Anda menggunakan macOS dengan Xcode terinstal.
+
+1. Buka terminal, kemudian jalankan:
+
+```bash
+flutter pub get
+cd ios
+pod install
+cd ..
+flutter run
+```
+
+### web
+
+```bash
+flutter config --enable-web
+flutter run -d chrome
+```
+
+## Demo
+
+[![Video Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/RajaIblis/kalkulator/raw/main/path/to/video.mov)
+
+## Indentitas
+
+Name: Bagas Kara
+
+No: 22
