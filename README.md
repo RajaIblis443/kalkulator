@@ -24,7 +24,7 @@ Berikut langkah langkah instalasi
 2. Clone Repository Ini:
 
 ```bash
-git clone https://github.com/username/kalkulator.git
+git clone https://github.com/RajaIblis443/kalkulator.git
 cd kalkulator
 ```
 
@@ -58,7 +58,7 @@ flutter run -d chrome
 
 ## Demo
 
-[![Video Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/RajaIblis/kalkulator/raw/master/path/to/video.mov)
+[![Video Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/RajaIblis/kalkulator/raw/master/video.mov)
 
 ## Indentitas
 
