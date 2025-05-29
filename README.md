@@ -58,7 +58,7 @@ flutter run -d chrome
 
 ## Demo
 
-[![Video Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/RajaIblis/kalkulator/raw/main/path/to/video.mov)
+[![Video Demo](https://img.youtube.com/vi/VIDEO_ID/0.jpg)](https://github.com/RajaIblis/kalkulator/raw/master/path/to/video.mov)
 
 ## Indentitas
 
